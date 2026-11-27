@@ -1,0 +1,6 @@
+{
+  "project": "davide97g/attraversa-milano",
+  "channel": "html5",
+  "build": "bun run build",
+  "dist": "dist"
+}
