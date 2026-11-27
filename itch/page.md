@@ -16,7 +16,7 @@ Ricetta della pagina: `../tools/itch-page-recipe.md` (Genre `Action`, embed 960x
 **Description**
 
 ```
-Giorno N di "Videogiochi della mia infanzia": per tutto dicembre rifaccio un gioco a cui giocavo da piccolo, uno al giorno, fino a capodanno. Tutti i giochi: https://videogiochi.davideghiotto.it
+Giorno 8 di "Videogiochi della mia infanzia": per tutto dicembre rifaccio un gioco a cui giocavo da piccolo, uno al giorno, fino a capodanno. Tutti i giochi: https://videogiochi.davideghiotto.it
 
 ATTRAVERSA MILANO
 Sei un piccione e Milano non si ferma per te. Attraversa strade piene di Vespe e bus, salta sulle barche dei Navigli, scappa quando il semaforo del tram lampeggia. E non restare indietro: la spazzatrice passa per tutti.
@@ -33,5 +33,5 @@ Musica, suoni e modelli 3D generati nel codice.
 
 ---
 
-Day N of "Videogames of my childhood". You're a pigeon crossing Milan in December: roads, trams and canals. Arrows to hop.
+Day 8 of "Videogames of my childhood". You're a pigeon crossing Milan in December: roads, trams and canals. Arrows to hop.
 ```
